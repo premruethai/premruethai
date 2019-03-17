@@ -1,6 +1,8 @@
 {
   "name": "premruethai",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular",
   "id": "9eaac974"
 }
